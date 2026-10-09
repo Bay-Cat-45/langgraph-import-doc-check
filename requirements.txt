@@ -1,0 +1,2 @@
+langgraph==1.2.14
+langchain-anthropic==1.7.5

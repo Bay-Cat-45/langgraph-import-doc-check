@@ -1,0 +1,18 @@
+COMMERCIAL INVOICE
+Invoice No.: INV-2026-0912
+Date: 2026-09-12
+Shipper: Guangzhou Bright Home Co., Ltd. / No.88 Huangpu Rd, Guangzhou, China
+Consignee: (sample) Tokyo Living Goods K.K. / 1-2-3 Shibaura, Minato-ku, Tokyo, Japan
+Country of Origin: China
+Incoterms: FOB Guangzhou
+Currency: USD
+
+No. | Description                         | HS Code    | Qty   | Unit Price | Amount
+1   | Stainless steel kitchen knife set   | 8211.91    | 500   | 12.00      | 6,000.00
+2   | Ceramic coated frying pan 26cm      | 7323.93    | 800   | 9.50       | 7,800.00
+3   | Silicone baby feeding spoon         | 3924.10    | 1,200 | 1.20       | 1,440.00
+4   | Plastic food container set          |            | 600   | 3.00       | 1,800.00
+
+Total: USD 16,940.00
+Net Weight: 2,350 kg / Gross Weight: 2,610 kg
+Packages: 120 cartons

@@ -1,0 +1,13 @@
+PACKING LIST
+Invoice No.: INV-2026-0912
+Date: 2026-09-12
+Shipper: Guangzhou Bright Home Co., Ltd.
+Consignee: (sample) Tokyo Living Goods K.K.
+
+Carton No. | Description                       | Qty   | N.W.(kg) | G.W.(kg) | Measurement
+1-25       | Stainless steel kitchen knife set | 500   | 400      | 440      | 60x40x35cm
+26-65      | Ceramic coated frying pan 26cm    | 800   | 1,200    | 1,320    | 55x45x40cm
+66-95      | Silicone baby feeding spoon       | 1,200 | 150      | 180      | 50x40x30cm
+96-120     | Plastic food container set        | 600   | 600      | 670      | 60x50x45cm
+
+Total: 120 cartons / N.W. 2,350 kg / G.W. 2,610 kg
